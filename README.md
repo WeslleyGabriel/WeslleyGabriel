@@ -9,9 +9,9 @@
   
   
   
-- 🔭 Analista de Sistemas, QA.
+- 🔭 Em busca de novas experiências
 - 🌱 Graduando em Sistemas de Informação, pela UFPB CampusIV.
-- 🤔 Atualmente estudando Back-end, com JAVA, Spring, Banco de Dados.
+- 🤔 Atualmente estudando Back-end, com JAVA, Spring, Banco de Dados, e um pouco de Front-end.
 - 📫 Contato: gabrielweslley880@gamil.com
 
 ##
